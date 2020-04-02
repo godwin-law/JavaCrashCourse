@@ -21,10 +21,10 @@ public class Animal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Animal animal1=new Animal("Duck","OmniVores");
+		Animal animal1=new Animal("Ken","OmniVores");
 		animal1.sayAboutAnimal();
 		
-		Animal animal2=new Animal("Dear","Omnivores");
+		Animal animal2=new Animal("Bear","Omnivores");
 		animal2.sayAboutAnimal();
 		
 		
